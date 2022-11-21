@@ -1,0 +1,23 @@
+html,body{
+    background:linear-gradient(to left, #0059ff, #31a1ce);
+}
+
+
+.container{
+    border-radius: 10px;
+    box-shadow: 0 0 200px 0 rgba(0, 0, 0, 0.7);
+    margin-top: 100px;
+    padding: 20px;
+}
+
+form{
+    margin-left: 20px;
+}
+h1{
+    text-align: center;
+}
+
+#password_status{
+    margin-left: 20px;
+}
+
